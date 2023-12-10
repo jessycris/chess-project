@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+E:\Jessyca\Jessyca\PROGRAMAÇÃO\Cursos UDEMY\java\ws-projeto-xadrez\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+12815110.index
+1488096940.index
