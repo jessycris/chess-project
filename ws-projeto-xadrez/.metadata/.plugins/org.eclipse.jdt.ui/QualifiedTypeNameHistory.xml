@@ -5,6 +5,7 @@
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
     <fullyQualifiedTypeName name="chess.ChessPiece"/>
     <fullyQualifiedTypeName name="chess.pieces.Rook"/>
-    <fullyQualifiedTypeName name="boardgame.Position"/>
     <fullyQualifiedTypeName name="chess.pieces.King"/>
+    <fullyQualifiedTypeName name="boardgame.Position"/>
+    <fullyQualifiedTypeName name="chess.Color"/>
 </qualifiedTypeNameHistroy>
