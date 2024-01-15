@@ -5,11 +5,11 @@
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
     <fullyQualifiedTypeName name="chess.ChessPiece"/>
     <fullyQualifiedTypeName name="chess.pieces.Rook"/>
-    <fullyQualifiedTypeName name="chess.pieces.King"/>
     <fullyQualifiedTypeName name="chess.Color"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="boardgame.Position"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="chess.pieces.King"/>
 </qualifiedTypeNameHistroy>
